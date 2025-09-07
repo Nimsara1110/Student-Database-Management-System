@@ -1,0 +1,9 @@
+# Ignore compiled Java classes
+bin/
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore the MySQL Connector JAR (tell users to download it themselves)
+lib/mysql-connector-j-*.jar
